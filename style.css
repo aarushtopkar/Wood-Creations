@@ -1,0 +1,37 @@
+#logo{
+    font-family: 'Bebas Neue', sans-serif;
+    color: #985538;font-size: 35px;
+    text-align: center;}
+#search{
+    text-align: center;
+}
+body{
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-photo/lumber-interior-texture_1194-6765.jpg?w=2000");
+}
+li{
+    display: inline-block;
+    padding: 8px;
+
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color:bisque;
+}
+nav{
+    background-color:#985538;
+    color:bisque;
+
+}
+h1{
+    color: #985538;
+    padding: 10px ;
+    font-family: 'Playfair Display', serif;
+}
+#Product{
+    background-color: white;
+    padding: 30px;
+    width: 180px
+}
+#f{font-family: 'Bebas Neue', sans-serif}
